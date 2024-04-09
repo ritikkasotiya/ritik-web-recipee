@@ -12,7 +12,7 @@ const Navbar = () => {
             <nav className='flex w-full py-2 md:py-3 px-4 md:px-20 items-center justify-between'>
                 <a href="/" className='flex items-center justify-center text-white text-lg cursor-pointer'>
                     <img src={Logo} alt="Logo" className='hidden md:block w-8 h-8 lg:w-14 lg:h-14' />
-                    Flavor<span>Verse</span>
+                    Ritik<span>--Recipee- Wobot-Intelligence</span>
                 </a>
 
                 <ul className='hidden md:flex text-white gap-6'>
